@@ -376,6 +376,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/ailsa_ii/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/zte/ailsa_ii/proprietary/lib64/libmodemapi.so:system/lib64/libmodemapi.so \
     vendor/zte/ailsa_ii/proprietary/lib64/libtfa9890.so:system/lib64/libtfa9890.so \
+    vendor/zte/ailsa_ii/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
+    vendor/zte/ailsa_ii/proprietary/lib64/libtinycompress.so:system/lib64/libtinycompress.so \
     vendor/zte/ailsa_ii/proprietary/lib64/libztecfg.so:system/lib64/libztecfg.so \
     vendor/zte/ailsa_ii/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so \
     vendor/zte/ailsa_ii/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
@@ -386,6 +388,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/ailsa_ii/proprietary/lib/libmodemapi.so:system/lib/libmodemapi.so \
     vendor/zte/ailsa_ii/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/zte/ailsa_ii/proprietary/lib/libtfa9890.so:system/lib/libtfa9890.so \
+    vendor/zte/ailsa_ii/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
+    vendor/zte/ailsa_ii/proprietary/lib/libtinycompress.so:system/lib/libtinycompress.so \
     vendor/zte/ailsa_ii/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/zte/ailsa_ii/proprietary/lib/libztecfg.so:system/lib/libztecfg.so \
     vendor/zte/ailsa_ii/proprietary/vendor/bin/mm-pp-dpps:system/vendor/bin/mm-pp-dpps \
